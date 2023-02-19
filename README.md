@@ -1,17 +1,21 @@
-<h1 align="center">Hi 👋, I'm Jeff</h1>
+<h1 align="center">Hello! I'm Jeff</h1>
 <h3 align="center">A passionate backend developer from Tennessee</h3>
 
-- 🌱 I’m currently learning **I am enrolled in the Nashville Software School's Software Engineering program**
+- 🔭 I’m currently working on Serverless Developlemet **Private repos :(**
+
+- 🌱 I’m excited to be part of NSS **To clarify, I'm enrolled in the Nashville Software School's Software Engineering Java/AWS program**
+
+- 👯 I’m looking to collaborate on **Any open source project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JNewton86](https://github.com/JNewton86)
 
-- 💬 Ask me about **Java, Gradle, AWS**
+- 💬 Ask me about **Java, Gradle, AWS, DynamoDB, CloudWatch, CloudFormation, S3Mortgage Lending, Scuba Diving, APIs**
 
-- 📫 How to reach me **Jeff@jnewton.pro**
+- 📫 How to reach me **Jeff@jnewton.pro, JNewton86@gmail.com, Jeff.Newton86@live.com**
 
-- 📄 Know about my experiences [jnewton.pro](jnewton.pro)
+- 📄 Please checkout out my site and resume: [jnewton.pro](jnewton.pro)
 
-- ⚡ Fun fact **I'm an active NAUI scuba diving instructor**
+- ⚡ A Fun fact about me **I'm an active NAUI scuba diving instructor**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
