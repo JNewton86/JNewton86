@@ -1,13 +1,13 @@
 <h1 align="center">Hello! I'm Jeff</h1>
 <h3 align="center">A passionate backend developer from Tennessee</h3>
 
-- 🔭 I’m currently working on Serverless Developlemet **Private repos :(**
+- 🔭 I’m currently working on Serverless Development and NoSQL database integration **These are Private repos unfortunately :(**
 
 - 🌱 I’m excited to be part of NSS **To clarify, I'm enrolled in the Nashville Software School's Software Engineering Java/AWS program**
 
 - 👯 I’m looking to collaborate on **Any open source project**
 
-- 👨‍💻 All of my projects are available at [https://github.com/JNewton86](https://github.com/JNewton86)
+- 👨‍💻 All of my public projects are available at [https://github.com/JNewton86](https://github.com/JNewton86)
 
 - 💬 Ask me about **Java, Gradle, AWS, DynamoDB, CloudWatch, CloudFormation, S3Mortgage Lending, Scuba Diving, APIs**
 
