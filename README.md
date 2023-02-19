@@ -1,6 +1,10 @@
 <h1 align="center">Hello! I'm Jeff</h1>
 <h3 align="center">A passionate backend developer from Tennessee</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jnewton86&label=Profile%20views&color=0e75b6&style=flat" alt="jnewton86" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jnewton86" alt="jnewton86" /></a> </p>
+
 - 🔭 I’m currently working on Serverless Development and NoSQL database integration **These are Private repos unfortunately :(**
 
 - 🌱 I’m excited to be part of NSS **To clarify, I'm enrolled in the Nashville Software School's Software Engineering Java/AWS program**
@@ -26,4 +30,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jnewton86&show_icons=true&locale=en&layout=compact" alt="jnewton86" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jnewton86&show_icons=true&locale=en" alt="jnewton86" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jnewton86&" alt="jnewton86" /></p>
