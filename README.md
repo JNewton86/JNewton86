@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java, Gradle, AWS, DynamoDB, CloudWatch, CloudFormation, S3Mortgage Lending, Scuba Diving, APIs**
 
-- 📫 How to reach me **Jeff@jnewton.pro, JNewton86@gmail.com, Jeff.Newton86@live.com**
+- 📫 How to reach me **Jeff@jnewton.pro**
 
 - 📄 Please checkout out my site and resume: [jnewton.pro](jnewton.pro)
 
