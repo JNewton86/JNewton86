@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Serverless Development and NoSQL database integration **These are Private repos unfortunately :(**
 
-- 🌱 I’m excited to be part of NSS **To clarify, I'm enrolled in the Nashville Software School's Software Engineering Java/AWS program**
+- 🌱 I’m excited to be a graduate of NSS **To clarify, I'm completed the ATA ciriculum with the Nashville Software School's Software Engineering Java/AWS program**
 
 - 👯 I’m looking to collaborate on **Any open source project**
 
