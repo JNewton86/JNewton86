@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Serverless Development and NoSQL database integration **These are Private repos unfortunately :(**
 
 - 🌱 I’m excited to be a graduate of NSS **To clarify, I've completed the ATA ciriculum with the Nashville Software School's Software Engineering Java/AWS program**
-- I'm greatfull to be a backend node/typescript software developer working on AWS projects. 
+- I'm greatfull to be a backend software developer working on AWS projects, abd GCP projects in Java, Typescript, and Python. 
 
 - 👯 I’m looking to collaborate on **Any open source project**
 
