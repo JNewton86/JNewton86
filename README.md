@@ -14,8 +14,6 @@
 
 - 📫 How to reach me **Jeff@jnewton.pro**
 
-- 📄 Please checkout out my site and resume: [jnewton.pro](jnewton.pro)
-
 - ⚡ A Fun fact about me **I'm an active NAUI scuba diving instructor**
 
 <h3 align="left">Connect with me:</h3>
